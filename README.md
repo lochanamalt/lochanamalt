@@ -1,7 +1,4 @@
-<head>
-  <meta name="google-site-verification" content="O0jdxIAG2w15tCH-J6tjd7f94WDvHIv6FTd_wu2BR24" />
-  
-</head>
+
   
   <h1 align="center"> 👋 Hi, I’m Lochana Marasinghe </h1>
 
