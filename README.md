@@ -6,6 +6,7 @@
 - 👩🏻‍🎓 I hold a Bachelor's Degree in Electrical and Information Engineering and a Postgraduate Diploma in Computer Science
 - 👀 I’m interested in Web Development, Robotics, IoT, and Machine Learning.
 - 🌱 I’m currently learning ReactJs
+- 🌐 Visit me on https://lochana-marasinghe.com
 - 📫 Feel free to reach out at lochanatharanganie@gmail.com
 
 
