@@ -5,8 +5,8 @@
 - 👩🏻‍💻 I'm a full-stack developer
 - 👩🏻‍🎓 I hold a Bachelor's Degree in Electrical and Information Engineering and a Postgraduate Diploma in Computer Science
 - 👀 I’m interested in Web Development, Robotics, IoT, and Machine Learning.
-- 🌱 I’m currently learning ReactJs
-- 🌐 Visit me on https://lochana-marasinghe.com
+- 🌱 I’m currently a phd graduate student at Washington State University
+- 🌐 Visit me on https://lochana-marasinghe.coS
 - 📫 Feel free to reach out at lochanatharanganie@gmail.com
 
 
