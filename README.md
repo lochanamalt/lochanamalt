@@ -7,7 +7,6 @@
 - 👀 I’m interested in Web Development, Robotics, IoT, and Machine Learning.
 - 🌱 I’m currently a PhD graduate student at Washington State University
 - 🌐 Visit me on https://lochana-marasinghe.com
-- 📫 Feel free to reach out at lochanatharanganie@gmail.com
 
 
 <h3 align="left"> 🔗 Connect me on: </h3>
